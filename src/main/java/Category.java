@@ -32,6 +32,7 @@ public class Category extends Vehicle implements NewInterface {
         try {
             String txtA = "Category";
             String txA = "Category";
+            System.out.println(txA);
             boolean flag = false;
             if (categoryid > 0)
                 flag = true;
