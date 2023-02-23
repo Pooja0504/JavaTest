@@ -11,8 +11,6 @@ public final class Main {
 
     public static void main(String[] args) {
         String welcome_msg = "WelCome";
-        System.out.println(welcome_msg);
-        System.out.println(welcome_msg);
         honda honda = new honda(3, 100, 25);
         Delux$ delux$ = new Delux$(4, 120, 25);
         LOGGER.info(honda.toString());
