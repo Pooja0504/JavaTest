@@ -79,6 +79,6 @@ public class Category extends Vehicle implements NewInterface {
 
     @Override
     public void remove(Object o) throws RemoveException, EJBException {
-    
+    //fixed
     }
 }
