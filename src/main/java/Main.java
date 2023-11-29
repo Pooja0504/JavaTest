@@ -47,5 +47,8 @@ public final class Main {
 
     protected void whichClass(){
         LOGGER.info(headline);
+        System.out.println(stringValue);
+        System.out.println(stringValue);
+        System.out.println(stringValue);
     }
 }
